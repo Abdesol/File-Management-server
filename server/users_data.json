@@ -1,0 +1,22 @@
+{
+    "Abdesol": {
+        "passw": "12345678",
+        "status": "ON"
+    },
+    "david": {
+        "passw": "12341234",
+        "status": "OFF"
+    },
+    "user1": {
+        "passw": "abcdabcd",
+        "status": "OFF"
+    },
+    "hello": {
+        "passw": "aaaa",
+        "status": "OFF"
+    },
+    "john": {
+        "passw": "12341234",
+        "status": "OFF"
+    }
+}
